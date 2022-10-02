@@ -282,9 +282,6 @@ output_data_file = "Weather_Database/WeatherPy_Database.csv"
 city_data_df.to_csv(output_data_file, index_label="City_ID")
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/World_Weather_Analysis/blob/main/Resources/Images/1.3.PNG?raw=true)
-
-
 ![name-of-you-image](https://github.com/emmanuelmartinezs/World_Weather_Analysis/blob/main/Resources/Images/1.4.PNG?raw=true)
 
 

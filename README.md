@@ -429,14 +429,6 @@ marker_layer = gmaps.marker_layer(locations, info_box_content=hotel_info)
 fig.add_layer(heat_layer)
 fig.add_layer(marker_layer)
 
-# 11b. Display the figure
-fig
-
-````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/World_Weather_Analysis/blob/main/Resources/Images/2.5.PNG?raw=true)
-
-
 **6. The marker layer map is saved and uploaded to the Vacation_Search folder as `WeatherPy_vacation_map.png`.**
 
 > Image with `Jupyter Notebook` & `Python` Code below.
